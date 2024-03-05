@@ -3,14 +3,16 @@
 Data Analyst
 ------------
 
-I am a newly baked Data Analyst, interested in data analysis implementation for business processes optimisation. Or -figuratively speaking- I aim to create a well baked data-bread from the data-flour.
+I am Yulia, a newly baked Data Analyst, interested in data analysis implementation for business processes optimisation. Or -figuratively speaking- I aim to create a unic recipe for a well baked data-bread from the data-flour.
 
 *   🌍  I'm based in London
-*   💻  You can see my portfolio at: sites.google/datawizyw/home
+*   💻  You can see my portfolio at: sites.google/datawizyw
 *   ✉️  You can contact me at [datawizyw@gmail.com](mailto:datawizyw@gmail.com)
 *   🧠  I'm learning Tableau, Power BI, Excel
 *   ⚡  I appreciate an intuitive approach, based on the logic
-*
+*   😎 I've learnt this approach from The One and Onlhy Uri Geller!
+
+
 *   ### Skills 
 <p align="left">
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
