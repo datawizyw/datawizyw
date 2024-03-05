@@ -10,7 +10,7 @@ I am Yulia, a newly baked Data Analyst, interested in data analysis implementati
 *   ✉️  You can contact me at [datawizyw@gmail.com](mailto:datawizyw@gmail.com)
 *   🧠  I'm learning Tableau, Power BI, Excel
 *   ⚡  I appreciate an intuitive approach, based on the logic
-*   😎 I've learnt this approach from The One and Onlhy Uri Geller!
+*   😎 I've learnt this approach from The One and Only Uri Geller!
 
 
 *   ### Skills 
