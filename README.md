@@ -6,7 +6,7 @@ Data Analyst
 I am Yulia, a newly baked Data Analyst, interested in data analysis implementation for business processes optimisation. Or -figuratively speaking- I aim to create a unic recipe for a well baked data-bread from the data-flour.
 
 *   🌍  I'm based in London
-*   💻  You can see my portfolio at: sites.google/datawizyw
+*   💻  You can see my portfolio at: [sites.google/datawizyw](url)
 *   ✉️  You can contact me at [datawizyw@gmail.com](mailto:datawizyw@gmail.com)
 *   🧠  I'm learning Tableau, Power BI, Excel
 *   ⚡  I appreciate an intuitive approach, based on the logic
